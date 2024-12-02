@@ -72,3 +72,22 @@ function findMax(num1, num2, num3) {
   
   findMax(10, 20, 15);
   
+// LOOPS PRACTICE 
+
+function main(num) {
+    // your code goes here
+
+	const arr = num.toString().split('')
+	let sum= 1;
+	for(let i = 0; i < arr.length; i++){
+
+		sum *= parseInt(arr[i])
+
+	}
+
+	console.log(sum)
+}
+
+main(1234);
+
+
