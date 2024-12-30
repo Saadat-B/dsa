@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/saadat/Desktop/dsa/C/chapter1",
-      "program": "/Users/saadat/Desktop/dsa/C/chapter1/build/Debug/outDebug"
+      "cwd": "/Users/saadat/Desktop/dsa/cpp",
+      "program": "/Users/saadat/Desktop/dsa/cpp/build/Debug/outDebug"
     }
   ]
 }
